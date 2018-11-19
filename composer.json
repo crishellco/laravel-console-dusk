@@ -38,5 +38,6 @@
     },
     "suggest": {
         "phpunit/phpunit": "Required to perform browser test assertions."
-    }
+    },
+    "minimum-stability": "dev"
 }
