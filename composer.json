@@ -32,7 +32,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "crishellco\\LaravelConsoleDusk\\LaravelConsoleDuskServiceProvider"
+                "NunoMaduro\\LaravelConsoleDusk\\LaravelConsoleDuskServiceProvider"
             ]
         }
     },
